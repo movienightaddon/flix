@@ -1,5 +1,5 @@
 <item>
-<title>[B]FILMES DE TERROR[/B]</title>
+<title>[B]==========» FILMES DE TERROR «==========[/B]</title>
 </item>
 
 <item>
