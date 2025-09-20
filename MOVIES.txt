@@ -1,13 +1,17 @@
 <item>
+<title>[B]FILMES DE TERROR[/B]</title>
+</item>
+
+<item>
 <title>[B]Full Moon Fever[/B]</title>
 <link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:2AD6999C7D4651C9E2902DDD2DA895CE86221710&dn=Full+Moon+Fever+%282023%29+%5B720p%5D+%5BYTS.MX%5D&tr=udp%3A%2F%2Ftracker.opentrackr.org%3A1337%2Fannounce&tr=udp%3A%2F%2Fopen.tracker.cl%3A1337%2Fannounce&tr=udp%3A%2F%2Fp4p.arenabg.com%3A1337%2Fannounce&tr=udp%3A%2F%2Ftracker.torrent.eu.org%3A451%2Fannounce&tr=udp%3A%2F%2Ftracker.dler.org%3A6969%2Fannounce&tr=udp%3A%2F%2Fopen.stealth.si%3A80%2Fannounce&tr=udp%3A%2F%2Fipv4.tracker.harry.lu%3A80%2Fannounce&tr=https%3A%2F%2Fopentracker.i2p.rocks%3A443%2Fannounce</link>
 <thumbnail>https://img.yts.mx/assets/images/movies/full_moon_fever_2023/medium-cover.jpg</thumbnail>
-<info>TUm monstro espreita no coração de cada homem, mas Hunter Dunne nunca quis se tornar um. Após um ataque brutal na floresta, ele fica marcado. O tempo corre enquanto Hunter tenta descobrir a causa, para não ser consumido pela lua cheia.</info>
+<info>Um monstro espreita no coração de cada homem, mas Hunter Dunne nunca quis se tornar um. Após um ataque brutal na floresta, ele fica marcado. O tempo corre enquanto Hunter tenta descobrir a causa, para não ser consumido pela lua cheia.</info>
 </item>
 
 <item>
 <title>[B]NOME DO FILME-(ANO DO FILME)-(RESOLUÇÃO DO FILME)-DUBLADO OU LEGENDADO[/B]</title>
-<link>plugin://plugin.video.gdrive?mode=streamURL&amp;url=LINK DO FILME?usp=drivesdk</link>
+<link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:COLOCA_AQUI_O_HASH</link>
 <thumbnail>THUMBNAIL DO FILME</thumbnail>
 <info>TEXTO DE SINOPSE.</info>
 </item>
