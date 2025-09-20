@@ -1,82 +1,75 @@
 <item>
-<title>[B]==========» FILMES DE TERROR «==========[/B]</title>
+<title>[B]*FILMES DE TERROR*[B]</title>
 </item>
 
 <item>
-<title>[B]Full Moon Fever[/B]</title>
-<link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:2AD6999C7D4651C9E2902DDD2DA895CE86221710&dn=Full+Moon+Fever+%282023%29+%5B720p%5D+%5BYTS.MX%5D&tr=udp%3A%2F%2Ftracker.opentrackr.org%3A1337%2Fannounce&tr=udp%3A%2F%2Fopen.tracker.cl%3A1337%2Fannounce&tr=udp%3A%2F%2Fp4p.arenabg.com%3A1337%2Fannounce&tr=udp%3A%2F%2Ftracker.torrent.eu.org%3A451%2Fannounce&tr=udp%3A%2F%2Ftracker.dler.org%3A6969%2Fannounce&tr=udp%3A%2F%2Fopen.stealth.si%3A80%2Fannounce&tr=udp%3A%2F%2Fipv4.tracker.harry.lu%3A80%2Fannounce&tr=https%3A%2F%2Fopentracker.i2p.rocks%3A443%2Fannounce</link>
-<thumbnail>https://img.yts.mx/assets/images/movies/full_moon_fever_2023/medium-cover.jpg</thumbnail>
-<info>Um monstro espreita no coração de cada homem, mas Hunter Dunne nunca quis se tornar um. Após um ataque brutal na floresta, ele fica marcado. O tempo corre enquanto Hunter tenta descobrir a causa, para não ser consumido pela lua cheia.</info>
+<title>[B]Playback[/B]</title>
+<link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:57C4E6F603F65175DC0A4723A66BFE8C41CA9EB2&dn=Playback+%282012%29+%5B720p%5D+%5BYTS.MX%5D&tr=udp%3A%2F%2Ftracker.opentrackr.org%3A1337%2Fannounce&tr=udp%3A%2F%2Fopen.tracker.cl%3A1337%2Fannounce&tr=udp%3A%2F%2Fp4p.arenabg.com%3A1337%2Fannounce&tr=udp%3A%2F%2Ftracker.torrent.eu.org%3A451%2Fannounce&tr=udp%3A%2F%2Ftracker.dler.org%3A6969%2Fannounce&tr=udp%3A%2F%2Fopen.stealth.si%3A80%2Fannounce&tr=udp%3A%2F%2Fipv4.tracker.harry.lu%3A80%2Fannounce&tr=https%3A%2F%2Fopentracker.i2p.rocks%3A443%2Fannounce</link>
+<thumbnail>https://img.yts.mx/assets/images/movies/playback_2012/medium-cover.jpg</thumbnail>
+<info>Ao investigar o passado infame de sua cidade, um grupo de estudantes do ensino médio involuntariamente desvenda um segredo ainda mais sombrio. Agora, um espírito maligno foi despertado e não medirá esforços para encontrar seu verdadeiro herdeiro.</info>
 </item>
 
 <item>
-<title>[B]NOME DO FILME-(ANO DO FILME)-(RESOLUÇÃO DO FILME)-DUBLADO OU LEGENDADO[/B]</title>
+<title>First Moon</title>
+<link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:96F2594AC71B6F418019BDBB5FF2C6D7B6A9EC47&dn=First+Moon+%282025%29+%5B720p%5D+%5BYTS.MX%5D&tr=udp%3A%2F%2Ftracker.opentrackr.org%3A1337%2Fannounce&tr=udp%3A%2F%2Fopen.tracker.cl%3A1337%2Fannounce&tr=udp%3A%2F%2Fp4p.arenabg.com%3A1337%2Fannounce&tr=udp%3A%2F%2Ftracker.torrent.eu.org%3A451%2Fannounce&tr=udp%3A%2F%2Ftracker.dler.org%3A6969%2Fannounce&tr=udp%3A%2F%2Fopen.stealth.si%3A80%2Fannounce&tr=udp%3A%2F%2Fipv4.tracker.harry.lu%3A80%2Fannounce&tr=https%3A%2F%2Fopentracker.i2p.rocks%3A443%2Fannounce</link>
+<thumbnail>https://img.yts.mx/assets/images/movies/first_moon_2025/medium-cover.jpg</thumbnail>
+<info>Uma jovem garçonete é sequestrada por um culto religioso, que está determinado a curá-la de um vírus sexualmente transmissível de lobisomem — ou matá-la no processo. Será que ela conseguirá escapar antes da primeira lua cheia?</info>
+</item>
+
+<item>
+<title>[B]Amityville Backrooms</title>
+<link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:B906A14FC4C83DC78F54A14D280DA9375FC4120C&dn=Amityville+Backrooms+%282024%29+%5B720p%5D+%5BYTS.MX%5D&tr=udp%3A%2F%2Ftracker.opentrackr.org%3A1337%2Fannounce&tr=udp%3A%2F%2Fopen.tracker.cl%3A1337%2Fannounce&tr=udp%3A%2F%2Fp4p.arenabg.com%3A1337%2Fannounce&tr=udp%3A%2F%2Ftracker.torrent.eu.org%3A451%2Fannounce&tr=udp%3A%2F%2Ftracker.dler.org%3A6969%2Fannounce&tr=udp%3A%2F%2Fopen.stealth.si%3A80%2Fannounce&tr=udp%3A%2F%2Fipv4.tracker.harry.lu%3A80%2Fannounce&tr=https%3A%2F%2Fopentracker.i2p.rocks%3A443%2Fannounce</link>
+<thumbnail>https://img.yts.mx/assets/images/movies/amityville_backrooms_2024/medium-cover.jpg</thumbnail>
+<info>Após visitar uma casa em Amityville, Keith se vê repentinamente transportado para outro reino dentro da casa, sem saída. Cada porta que ele tenta o leva de volta à mesma parte da casa em que ele se encontrou pela primeira vez.</info>
+</item>
+
+<item>
+<title>[B]Return of the Salem Witch[/B]</title>
+<link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:D3A8635053F5760F051F5FA0D80A61694797F7F9&dn=Return+of+the+Salem+Witch+%282022%29+%5B720p%5D+%5BYTS.MX%5D&tr=udp%3A%2F%2Ftracker.opentrackr.org%3A1337%2Fannounce&tr=udp%3A%2F%2Fopen.tracker.cl%3A1337%2Fannounce&tr=udp%3A%2F%2Fp4p.arenabg.com%3A1337%2Fannounce&tr=udp%3A%2F%2Ftracker.torrent.eu.org%3A451%2Fannounce&tr=udp%3A%2F%2Ftracker.dler.org%3A6969%2Fannounce&tr=udp%3A%2F%2Fopen.stealth.si%3A80%2Fannounce&tr=udp%3A%2F%2Fipv4.tracker.harry.lu%3A80%2Fannounce&tr=https%3A%2F%2Fopentracker.i2p.rocks%3A443%2Fannounce</link>
+<thumbnail>https://img.yts.mx/assets/images/movies/return_of_the_salem_witch_2022/medium-cover.jpg</thumbnail>
+<info>Um grupo de estudantes presos em casa durante as férias, sem poder dirigir para casa devido às más condições climáticas, logo se veem conduzindo um julgamento de bruxas moderno.</info>
+</item>
+
+<item>
+<title>[B]Demon Pit[/B]</title>
+<link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:B4C2E56C27C845B52261D7EDAF9E56996B135ADE&dn=Demon+Pit+%282022%29+%5B720p%5D+%5BYTS.MX%5D&tr=udp%3A%2F%2Ftracker.opentrackr.org%3A1337%2Fannounce&tr=udp%3A%2F%2Fopen.tracker.cl%3A1337%2Fannounce&tr=udp%3A%2F%2Fp4p.arenabg.com%3A1337%2Fannounce&tr=udp%3A%2F%2Ftracker.torrent.eu.org%3A451%2Fannounce&tr=udp%3A%2F%2Ftracker.dler.org%3A6969%2Fannounce&tr=udp%3A%2F%2Fopen.stealth.si%3A80%2Fannounce&tr=udp%3A%2F%2Fipv4.tracker.harry.lu%3A80%2Fannounce&tr=https%3A%2F%2Fopentracker.i2p.rocks%3A443%2Fannounce</link>
+<thumbnail>https://img.yts.mx/assets/images/movies/demon_pit_2022/medium-cover.jpg</thumbnail>
+<info>Um grupo de Anjos Rebeldes designados para entregar almas condenadas ao inferno se tornam sombrios, tornando-se executores da humanidade antes que tenham a oportunidade de se arrepender.</info>
+</item>
+
+<item>
+<title>[B]Mauler[/B]</title>
+<link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:3C9987C99A7C1177FF31577AD392C142804C899B&dn=Mauler+%282025%29+%5B720p%5D+%5BYTS.MX%5D&tr=udp%3A%2F%2Ftracker.opentrackr.org%3A1337%2Fannounce&tr=udp%3A%2F%2Fopen.tracker.cl%3A1337%2Fannounce&tr=udp%3A%2F%2Fp4p.arenabg.com%3A1337%2Fannounce&tr=udp%3A%2F%2Ftracker.torrent.eu.org%3A451%2Fannounce&tr=udp%3A%2F%2Ftracker.dler.org%3A6969%2Fannounce&tr=udp%3A%2F%2Fopen.stealth.si%3A80%2Fannounce&tr=udp%3A%2F%2Fipv4.tracker.harry.lu%3A80%2Fannounce&tr=https%3A%2F%2Fopentracker.i2p.rocks%3A443%2Fannounce</link>
+<thumbnail>https://img.yts.mx/assets/images/movies/mauler_2025/medium-cover.jpg</thumbnail>
+<info>Desesperados por dinheiro, cinco jovens amigos entram em uma assustadora casa de assassinato para um concurso de US$ 25 mil na dark web, apenas para acabar em uma luta brutal por suas vidas contra um maníaco religioso de 2,13 metros de altura com uma marreta que está disposto a matar todos os pecadores.</info>
+</item>
+
+<item>
+<title>[B]Gone with the Dead[/B]</title>
+<link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:F74F77931BAB65D879F213CAD907E123C6F7D167&dn=Gone+with+the+Dead+%282024%29+%5B720p%5D+%5BYTS.MX%5D&tr=udp%3A%2F%2Ftracker.opentrackr.org%3A1337%2Fannounce&tr=udp%3A%2F%2Fopen.tracker.cl%3A1337%2Fannounce&tr=udp%3A%2F%2Fp4p.arenabg.com%3A1337%2Fannounce&tr=udp%3A%2F%2Ftracker.torrent.eu.org%3A451%2Fannounce&tr=udp%3A%2F%2Ftracker.dler.org%3A6969%2Fannounce&tr=udp%3A%2F%2Fopen.stealth.si%3A80%2Fannounce&tr=udp%3A%2F%2Fipv4.tracker.harry.lu%3A80%2Fannounce&tr=https%3A%2F%2Fopentracker.i2p.rocks%3A443%2Fannounce</link>
+<thumbnail>https://img.yts.mx/assets/images/movies/gone_with_the_dead_2024/medium-cover.jpg</thumbnail>
+<info>Dois grupos de sobreviventes são forçados a formar uma aliança desconfortável quando zumbis invadem a costa oeste dos EUA.</info>
+</item>
+
+<item>
+<title>[B]Inherit the Witch[/B]</title>
+<link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:ED76983216E91654C02B95BA871C47A8F286DB13&dn=Inherit+the+Witch+%282024%29+%5B720p%5D+%5BYTS.MX%5D&tr=udp%3A%2F%2Ftracker.opentrackr.org%3A1337%2Fannounce&tr=udp%3A%2F%2Fopen.tracker.cl%3A1337%2Fannounce&tr=udp%3A%2F%2Fp4p.arenabg.com%3A1337%2Fannounce&tr=udp%3A%2F%2Ftracker.torrent.eu.org%3A451%2Fannounce&tr=udp%3A%2F%2Ftracker.dler.org%3A6969%2Fannounce&tr=udp%3A%2F%2Fopen.stealth.si%3A80%2Fannounce&tr=udp%3A%2F%2Fipv4.tracker.harry.lu%3A80%2Fannounce&tr=https%3A%2F%2Fopentracker.i2p.rocks%3A443%2Fannounce</link>
+<thumbnail>https://img.yts.mx/assets/images/movies/inherit_the_witch_2024/medium-cover.jpg</thumbnail>
+<info>Em 1984, uma família dá uma festa de 14 anos. 30 anos depois, eles se reúnem em duas casas isoladas em uma floresta, onde verdades horríveis são descobertas sobre o pacto oculto da família com um mal antigo que permitiu sua riqueza e poder.</info>
+</item>
+
+<item>
+<title>[B]Shark Girl[/B]</title>
 <link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:COLOCA_AQUI_O_HASH</link>
-<thumbnail>THUMBNAIL DO FILME</thumbnail>
-<info>TEXTO DE SINOPSE.</info>
+<thumbnail>magnet:?xt=urn:btih:5FD7B15FA0FF94EF65CA1FAF1373AE8837AABA9C&dn=Shark+Girl+%282024%29+%5B720p%5D+%5BYTS.MX%5D&tr=udp%3A%2F%2Ftracker.opentrackr.org%3A1337%2Fannounce&tr=udp%3A%2F%2Fopen.tracker.cl%3A1337%2Fannounce&tr=udp%3A%2F%2Fp4p.arenabg.com%3A1337%2Fannounce&tr=udp%3A%2F%2Ftracker.torrent.eu.org%3A451%2Fannounce&tr=udp%3A%2F%2Ftracker.dler.org%3A6969%2Fannounce&tr=udp%3A%2F%2Fopen.stealth.si%3A80%2Fannounce&tr=udp%3A%2F%2Fipv4.tracker.harry.lu%3A80%2Fannounce&tr=https%3A%2F%2Fopentracker.i2p.rocks%3A443%2Fannounce</thumbnail>
+<info>Quando uma linda jovem influenciadora sobrevive a um misterioso ataque de tubarão, ela se torna uma predadora monstruosa, caçando e se alimentando na ensolarada Venice Beach, Califórnia.</info>
 </item>
 
 <item>
-<title>[B]NOME DO FILME-(ANO DO FILME)-(RESOLUÇÃO DO FILME)-DUBLADO OU LEGENDADO[/B]</title>
-<link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:COLOCA_AQUI_O_HASH</link>
-<thumbnail>THUMBNAIL DO FILME</thumbnail>
-<info>TEXTO DE SINOPSE.</info>
-</item>
-
-<item>
-<title>[B]NOME DO FILME-(ANO DO FILME)-(RESOLUÇÃO DO FILME)-DUBLADO OU LEGENDADO[/B]</title>
-<link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:COLOCA_AQUI_O_HASH</link>
-<thumbnail>THUMBNAIL DO FILME</thumbnail>
-<info>TEXTO DE SINOPSE.</info>
-</item>
-
-<item>
-<title>[B]NOME DO FILME-(ANO DO FILME)-(RESOLUÇÃO DO FILME)-DUBLADO OU LEGENDADO[/B]</title>
-<link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:COLOCA_AQUI_O_HASH</link>
-<thumbnail>THUMBNAIL DO FILME</thumbnail>
-<info>TEXTO DE SINOPSE.</info>
-</item>
-
-<item>
-<title>[B]NOME DO FILME-(ANO DO FILME)-(RESOLUÇÃO DO FILME)-DUBLADO OU LEGENDADO[/B]</title>
-<link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:COLOCA_AQUI_O_HASH</link>
-<thumbnail>THUMBNAIL DO FILME</thumbnail>
-<info>TEXTO DE SINOPSE.</info>
-</item>
-
-<item>
-<title>[B]NOME DO FILME-(ANO DO FILME)-(RESOLUÇÃO DO FILME)-DUBLADO OU LEGENDADO[/B]</title>
-<link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:COLOCA_AQUI_O_HASH</link>
-<thumbnail>THUMBNAIL DO FILME</thumbnail>
-<info>TEXTO DE SINOPSE.</info>
-</item>
-
-<item>
-<title>[B]NOME DO FILME-(ANO DO FILME)-(RESOLUÇÃO DO FILME)-DUBLADO OU LEGENDADO[/B]</title>
-<link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:COLOCA_AQUI_O_HASH</link>
-<thumbnail>THUMBNAIL DO FILME</thumbnail>
-<info>TEXTO DE SINOPSE.</info>
-</item>
-
-<item>
-<title>[B]NOME DO FILME-(ANO DO FILME)-(RESOLUÇÃO DO FILME)-DUBLADO OU LEGENDADO[/B]</title>
-<link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:COLOCA_AQUI_O_HASH</link>
-<thumbnail>THUMBNAIL DO FILME</thumbnail>
-<info>TEXTO DE SINOPSE.</info>
-</item>
-
-<item>
-<title>[B]NOME DO FILME-(ANO DO FILME)-(RESOLUÇÃO DO FILME)-DUBLADO OU LEGENDADO[/B]</title>
-<link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:COLOCA_AQUI_O_HASH</link>
-<thumbnail>THUMBNAIL DO FILME</thumbnail>
-<info>TEXTO DE SINOPSE.</info>
-</item>
-
-<item>
-<title>[B]NOME DO FILME-(ANO DO FILME)-(RESOLUÇÃO DO FILME)-DUBLADO OU LEGENDADO[/B]</title>
-<link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:COLOCA_AQUI_O_HASH</link>
-<thumbnail>THUMBNAIL DO FILME</thumbnail>
-<info>TEXTO DE SINOPSE.</info>
+<title>[B]Ghost Game[/B]</title>
+<link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:D032BB1AAFD1E0F9C311CAEE1ED9E36293792C08&dn=Ghost+Game+%282024%29+%5B720p%5D+%5BYTS.MX%5D&tr=udp%3A%2F%2Ftracker.opentrackr.org%3A1337%2Fannounce&tr=udp%3A%2F%2Fopen.tracker.cl%3A1337%2Fannounce&tr=udp%3A%2F%2Fp4p.arenabg.com%3A1337%2Fannounce&tr=udp%3A%2F%2Ftracker.torrent.eu.org%3A451%2Fannounce&tr=udp%3A%2F%2Ftracker.dler.org%3A6969%2Fannounce&tr=udp%3A%2F%2Fopen.stealth.si%3A80%2Fannounce&tr=udp%3A%2F%2Fipv4.tracker.harry.lu%3A80%2Fannounce&tr=https%3A%2F%2Fopentracker.i2p.rocks%3A443%2Fannounce</link>
+<thumbnail>https://img.yts.mx/assets/images/movies/ghost_game_2024/medium-cover.jpg</thumbnail>
+<info>Como parte de um desafio na internet para viver sem ser detectado na casa de um estranho, um casal ousado tem como alvo uma casa mal-assombrada infame e passa por uma série de incidentes assustadores enquanto testemunham uma família caindo na loucura.</info>
 </item>
 
 <item>
